@@ -29,5 +29,6 @@ frontend/.env.production.local
 Thumbs.db
 
 # Project Specific
-Training/
+Training/*
+!Training/model-training.ipynb
 saved_models/
